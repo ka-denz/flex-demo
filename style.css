@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+section{
+    display: flex;
+    background-color: aquamarine;
+    margin: auto;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+#one{
+    background-color: blue;
+}
+
+#two{
+    background-color: blueviolet;
+}
+
+#three{
+    background-color: brown;
+}
